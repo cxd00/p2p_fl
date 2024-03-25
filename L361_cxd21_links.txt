@@ -1,0 +1,5 @@
+Slides: https://docs.google.com/presentation/d/1feK5bKGB7J8d3R1I3nS7aeSkfZFcT5ryuSyCmhd4RKs/edit?usp=sharing
+
+Notebook: https://colab.research.google.com/drive/1kx7nzEgv5yLryY5xVK3iXOGndhxTvcxx?usp=sharing
+
+Github: https://github.com/cxd00/p2p_fl/tree/main
